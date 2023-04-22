@@ -1,0 +1,103 @@
+﻿  App.cpp
+c:\my projects\c++\mazegame\mazegame\settings.h(11): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\settings.h(14): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\app.cpp(15): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\app.cpp(18): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\my projects\c++\mazegame\mazegame\app.cpp(22): warning C4244: аргумент: преобразование "const float" в "const unsigned int", возможна потеря данных
+  Map.cpp
+c:\my projects\c++\mazegame\mazegame\settings.h(11): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\settings.h(14): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\map.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(81): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\settings.h(26): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\settings.h(27): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\map.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(159): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(169): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(171): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\map.cpp(210): warning C4018: <: несоответствие типов со знаком и без знака
+  Player.cpp
+c:\my projects\c++\mazegame\mazegame\settings.h(11): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\settings.h(14): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\player.cpp(29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\player.cpp(38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\player.cpp(46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\player.cpp(54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\player.cpp(82): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\player.cpp(83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\player.cpp(84): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\player.cpp(87): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  RayCasting.cpp
+c:\my projects\c++\mazegame\mazegame\settings.h(11): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\settings.h(14): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(38): warning C4305: +=: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(39): warning C4305: +=: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(51): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(80): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(80): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(14): warning C4101: color_factor: неиспользованная локальная переменная
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(171): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(174): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(199): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(211): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(241): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(243): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(244): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(255): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(260): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(268): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(271): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(284): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\my projects\c++\mazegame\mazegame\raycasting.cpp(288): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+  UI.cpp
+c:\my projects\c++\mazegame\mazegame\settings.h(11): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\settings.h(14): warning C4305: инициализация: усечение из "double" в "float"
+c:\my projects\c++\mazegame\mazegame\ui.cpp(31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\my projects\c++\mazegame\mazegame\ui.cpp(36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\my projects\c++\mazegame\mazegame\ui.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\my projects\c++\mazegame\mazegame\ui.cpp(76): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+  Создание кода...
+  MazeGame.vcxproj -> C:\My Projects\C++\MazeGame\Debug\MazeGame.exe
